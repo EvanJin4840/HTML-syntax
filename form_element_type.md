@@ -15,3 +15,24 @@ The <input type="date"> element provides a date picker interface for users to se
 
 - textarea
 The <textarea> element is a multiline text input field, allowing users to enter larger blocks of text such as comments or descriptions. Unlike <input type="text">, it can span multiple lines and its size can be controlled by rows and columns.
+
+- fieldset
+The <fieldset> element is used to group related controls and labels within a form.
+It visually groups them by drawing a box around the content, making the form more organized.
+It also semantically groups elements for screen readers and assistive technologies, improving accessibility.
+Example usage can be grouping personal info fields, payment info fields, etc.
+
+- legend
+The <legend> element defines a caption or title for the content inside the associated <fieldset>.
+It typically appears as a label on top of the fieldset box.
+This helps users understand what the grouped fields are about.
+
+- optgroup
+Used to group related <option> elements within a <select> dropdown list.
+Helps organize long lists by grouping options under labeled sections.
+The label attribute specifies the name of the group.
+
+- datalist
+Defines a list of predefined options for an <input> element.
+Allows users to choose from suggested values or type their own.
+The <input> must have a list attribute pointing to the id of the <datalist>.
