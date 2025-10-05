@@ -12,3 +12,8 @@ The <meta> tag provides metadata about the HTML document. It's placed inside the
 - resolution
 
 * breakpoint
+✅ Purpose
+Breakpoints allow you to:
+Reorganize content (e.g., stack columns on mobile).
+Resize fonts and buttons for usability.
+Show/hide certain elements depending on the screen size.
