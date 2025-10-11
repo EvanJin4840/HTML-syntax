@@ -16,3 +16,6 @@
 - A glossary or dictionary.
 - Displaying metadata (e.g., Author: J.K. Rowling).
 - Question and Answer sections.
+
+* Advanced Usage
+- You are not limited to one-to-one pairs. A single term can have multiple descriptions, or multiple terms can share a single description.
